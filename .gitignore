@@ -7,6 +7,6 @@
 *.pdb
 test/
 
-*.y.tab.c
-*.y.tab.h
-*.lex.yy.c
+*y.tab.c
+*y.tab.h
+*lex.yy.c
