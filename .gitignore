@@ -1,0 +1,8 @@
+*.bat
+*.out
+*.output
+*.exe
+*.vcxproj*
+*.ilk
+*.pdb
+test/
